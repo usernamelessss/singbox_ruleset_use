@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zdassets.com",
+        "zopim.com",
+        "zndsk.com",
+        "outbound.io",
+        "zdusercontent.com",
+        "zendesk.com"
+      ]
+    }
+  ],
+  "version": 2
+}
