@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "jooxweb-api"
+      ],
+      "domain_suffix": [
+        "i-joox.com",
+        "joox.com",
+        "sanook.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.tencent.ibg.joox"
+      ]
+    }
+  ],
+  "version": 3
+}

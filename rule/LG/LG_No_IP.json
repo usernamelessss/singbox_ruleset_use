@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dacom.co.kr",
+        "kidc.net",
+        "lg.com",
+        "uplus.co.kr"
+      ]
+    }
+  ],
+  "version": 3
+}
