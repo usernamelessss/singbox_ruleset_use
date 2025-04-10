@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "wetv.qq.com"
+      ],
+      "domain_suffix": [
+        "iflix-images.akamaized.net",
+        "iflix.com",
+        "v.smtcdns.com",
+        "v.smtcdns.net",
+        "vv.video.qq.com",
+        "wetv.vip",
+        "wetvinfo.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.tencent.qqlivei18n",
+        "com.tencent.qqlivei18n.us"
+      ]
+    }
+  ],
+  "version": 3
+}

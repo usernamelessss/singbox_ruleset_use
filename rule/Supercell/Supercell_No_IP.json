@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "brawlstars.com",
+        "brawlstarsgame.com"
+      ]
+    }
+  ],
+  "version": 3
+}

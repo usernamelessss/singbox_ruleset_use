@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zhihu.com",
+        "zhimg.com"
+      ]
+    }
+  ],
+  "version": 3
+}
