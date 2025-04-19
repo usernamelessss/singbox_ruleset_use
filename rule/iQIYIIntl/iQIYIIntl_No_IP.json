@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cache.video.iqiyi.com"
+      ],
+      "domain_suffix": [
+        "inter.iqiyi.com",
+        "intl-rcd.iqiyi.com",
+        "intl-subscription.iqiyi.com",
+        "intl.iqiyi.com",
+        "iq.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.iqiyi.i18n",
+        "com.iqiyi.i18n.tv"
+      ]
+    }
+  ],
+  "version": 3
+}

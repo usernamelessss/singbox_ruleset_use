@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mega.co.nz",
+        "mega.io",
+        "mega.nz"
+      ]
+    },
+    {
+      "process_name": [
+        "mega.privacy.android.app"
+      ]
+    }
+  ],
+  "version": 3
+}

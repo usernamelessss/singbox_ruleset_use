@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "ttvnw"
+      ],
+      "domain_suffix": [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net",
+        "twitch-ext.rootonline.de",
+        "twitch.tv",
+        "twitchcdn.net",
+        "twitchsvc.net"
+      ]
+    },
+    {
+      "process_name": [
+        "tv.twitch.android.app"
+      ]
+    }
+  ],
+  "version": 3
+}
